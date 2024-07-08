@@ -1,0 +1,50 @@
+---
+product-family:
+  title: BlueXP Workload Factory for AWS文档
+  lead: BlueXP Workload Factory for AWS是一款功能强大的生命周期管理平台、旨在帮助您使用Amazon FSx for NetApp
+    ONTAP优化工作负载。按工作负载类型浏览文档或使用搜索栏在Workload Factory文档中的任意位置查找内容。
+  summary: BlueXP Workload Factory for AWS是一款功能强大的生命周期管理平台、旨在帮助您使用Amazon FSx for NetApp
+    ONTAP优化工作负载。按工作负载类型浏览文档或使用搜索栏在Workload Factory文档中的任意位置查找内容。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: 设置和管理
+    tags: admin
+  - title: 工作负载
+    tags: workload
+  - title: 存储
+    tags: storage
+  tiles:
+  - title: 设置和管理
+    icon: "./media/icon-admin.png"
+    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    summary: 了解如何开始使用Workload Factory、管理凭据以及使用CodeBox实现自动化。
+    tags: all,admin
+  - title: 适用于 NetApp ONTAP 的 Amazon FSX
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: 部署和管理FSx for ONTAP文件系统、以将ONTAP的全部功能用作原生AWS托管服务。
+    tags: all,storage
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://console.workloads.netapp.com/api-doc
+    summary: 以编程方式管理工作负载工厂资源。
+    tags: all,api
+  - title: 数据库工作负载
+    icon: "./media/icon-database.png"
+    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    summary: 使用适用于ONTAP文件系统的FSx作为外部数据存储库、通过内置优化最佳实践端到端部署数据库。
+    tags: all,workload
+  - title: GenAI
+    icon: "./media/icon-ai.png"
+    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    summary: 将FSx for ONTAP文件系统中的数据与MLOps平台和GenAI基础模型集成、以创建功能聊天机器人。
+    tags: all,workload
+  - title: VMware工作负载
+    icon: "./media/icon-vmware.png"
+    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    summary: 简化从内部vSphere环境到VMware Cloud on AWS的迁移、并为ONTAP文件系统实施自定义FSx作为外部数据存储库。
+    tags: all,workload
