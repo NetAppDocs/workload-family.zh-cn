@@ -143,4 +143,6 @@
   <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware工作负载</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">简化从内部vSphere环境到VMware Cloud on AWS的迁移、并为ONTAP文件系统实施自定义FSx作为外部数据存储库。</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有工作负载工厂文档</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">了解Workload Factory的所有新增功能。</block>
 </blocks>
