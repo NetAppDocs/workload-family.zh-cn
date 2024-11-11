@@ -125,24 +125,23 @@
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">请务必复制上面用于序列号字段的帐户序列号(960xxxx)。这样可以加快帐户处理速度。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此过程中、NetApp应与您联系。这是针对新用户的一次性入职练习。</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">拥有NetApp支持站点帐户后，请完成下的步骤，将该帐户与BlueXP登录相关联 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
-  <block id="e85dca3a461d7aa458cd568c9be40cff" category="sidebar">BlueXP Workload Factory for AWS是一款功能强大的生命周期管理平台、旨在帮助您使用Amazon FSx for NetApp ONTAP优化工作负载。按工作负载类型浏览文档或使用搜索栏在Workload Factory文档中的任意位置查找内容。</block>
-  <block id="4ad47d4476ebe4f0449905682cd3e009" category="sidebar">BlueXP Workload Factory for AWS文档</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">设置和管理</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作负载</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">存储</block>
-  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">了解如何开始使用Workload Factory、管理凭据以及使用CodeBox实现自动化。</block>
-  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">适用于 NetApp ONTAP 的 Amazon FSX</block>
   <block id="b02ec41574109950953b880723bdaffc" category="sidebar">部署和管理FSx for ONTAP文件系统、以将ONTAP的全部功能用作原生AWS托管服务。</block>
-  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">以编程方式管理工作负载工厂资源。</block>
-  <block id="38bd169945a371832b0b65c9086b1792" category="sidebar">数据库工作负载</block>
   <block id="7200d2fe60732fcead16bd936858301f" category="sidebar">使用适用于ONTAP文件系统的FSx作为外部数据存储库、通过内置优化最佳实践端到端部署数据库。</block>
   <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">GenAI</block>
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">将FSx for ONTAP文件系统中的数据与MLOps平台和GenAI基础模型集成、以创建功能聊天机器人。</block>
-  <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware工作负载</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">简化从内部vSphere环境到VMware Cloud on AWS的迁移、并为ONTAP文件系统实施自定义FSx作为外部数据存储库。</block>
-  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有工作负载工厂文档</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
-  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">了解Workload Factory的所有新增功能。</block>
+  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">BlueXP  工作负载工厂是一个功能强大的生命周期管理平台、旨在帮助您使用Amazon FSx for NetApp ONTAP优化工作负载。按工作负载类型浏览文档或使用搜索栏在工作负载工厂文档中的任意位置查找内容。</block>
+  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">BlueXP  工作负载工厂文档</block>
+  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">了解如何开始使用工作负载工厂、管理凭据以及使用CodeBox实现自动化。</block>
+  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">了解所有工作负载工厂的新增功能。</block>
+  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">以编程方式管理工作负载工厂资源。</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">数据库</block>
+  <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
+  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">所有工作负载工厂文档</block>
 </blocks>
