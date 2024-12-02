@@ -26,16 +26,16 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
     summary: 了解所有工作负载工厂的新增功能。
     tags: all
-  - title: 存储
-    icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
-    summary: 部署和管理FSx for ONTAP文件系统、以将ONTAP的全部功能用作原生AWS托管服务。
-    tags: all,storage
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: 以编程方式管理工作负载工厂资源。
     tags: all,api
+  - title: 构建者
+    icon: "./media/icon-builders.png"
+    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    summary: 通过实现与版本控制系统和CI/CD流的即时克隆集成、简化软件版本的使用和访问、从而节省时间和资源。
+    tags: all,workload
   - title: 数据库
     icon: "./media/icon-database.png"
     url: https://docs.netapp.com/us-en/workload-databases/index.html
@@ -46,6 +46,11 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-genai/index.html
     summary: 将FSx for ONTAP文件系统中的数据与MLOps平台和GenAI基础模型集成、以创建功能聊天机器人。
     tags: all,workload
+  - title: 存储
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: 部署和管理FSx for ONTAP文件系统、以将ONTAP的全部功能用作原生AWS托管服务。
+    tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
     url: https://docs.netapp.com/us-en/workload-vmware/index.html
