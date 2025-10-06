@@ -1,6 +1,6 @@
 ---
 settings:
-  name: BlueXP workload factory
+  name: NetApp Workload Factory
   search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai,workload-builders,workload-relnotes
   internal:
     pdf_enabled: false
@@ -11,5 +11,5 @@ settings:
   langs: zh-cn,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-tw
 sidebar:
   entries:
-  - title: 所有工作负载工厂文档
+  - title: 所有 Workload Factory 文档
     url: "/index.html"

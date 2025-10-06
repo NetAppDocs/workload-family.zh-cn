@@ -2,7 +2,6 @@
 <blocks>
   <block id="6a7b2c9c4cec65ad972b108fa0a1192b" category="doc">获取FSx for ONTAP支持</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">适用于 ONTAP 的 Amazon FSX</block>
-  <block id="9d06990508d25d367d9158c6558eb9c8" category="paragraph"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="35f9849ffdd809bda11d0fc56e1e3583" category="paragraph">要获得特定于Workload Factory及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自助支持选项</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">这些选项每周 7 天，每天 24 小时免费提供：</block>
@@ -16,7 +15,6 @@
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">开始之前</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">了解如何注册获取支持</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
-  <block id="aadd86a3fadf19221852692c6e4adc2f" category="paragraph">选择此选项将打开BlueXP控制台一个新的浏览器选项卡并加载支持信息板。</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在*资源*页面上、在技术支持下选择一个可用选项：</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">如果您想通过电话与某人通话，请选择*呼叫我们*。系统会将您定向到netapp.com上的一个页面、其中列出了您可以拨打的电话号码。</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">选择*创建案例*向NetApp支持专家开立TT：</block>
@@ -34,12 +32,10 @@
   <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">要查看支持案例的历史记录，您可以选择*设置&gt;时间线*并查找名为“创建支持案例”的操作。最右侧的按钮可用于展开操作以查看详细信息。</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">尝试创建案例时、您可能会遇到以下错误消息：</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您无权针对选定服务创建案例"</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此错误可能意味着NSS帐户及其关联的记录公司与BlueXP帐户序列号(即960xxxx)或工作环境序列号。您可以使用以下选项之一寻求帮助：</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用产品内聊天功能</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">请通过提交非技术案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
   <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">管理支持案例(预览)</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">您可以直接从BlueXP查看和管理活动的和已解决的支持案例。您可以管理与您的NSS帐户和公司关联的案例。</block>
   <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">案例管理以预览形式提供。我们计划改进此体验、并在即将发布的版本中添加增强功能。请通过产品内聊天向我们发送反馈。</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">请注意以下事项：</block>
   <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">页面顶部的案例管理信息板提供了两个视图：</block>
@@ -49,8 +45,6 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">您可以添加或删除感兴趣的列、也可以筛选优先级和状态等列的内容。其他列仅提供排序功能。</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">有关更多详细信息、请查看以下步骤。</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">在每个案例级别、我们可以更新案例备注或关闭尚未处于"已关闭"或"待关闭"状态的案例。</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">选择*案例管理*，如果出现提示，请将您的NSS帐户添加到BlueXP。</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">"*案例管理*"页面显示了与您的BlueXP用户帐户关联的NSS帐户相关的已打开案例。此NSS帐户与* NSS管理*页面顶部显示的NSS帐户相同。</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">也可以修改表中显示的信息：</block>
   <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">在“*组织案例*”下，选择“*查看*”以查看与贵公司关联的所有案例。</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">通过选择确切的日期范围或选择其他时间范围来修改日期范围。</block>
@@ -71,27 +65,18 @@
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">屏幕截图、显示在表的最后一列中选择菜单后可以执行的操作。</block>
   <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">支持注册概述</block>
-  <block id="d7e4bb081bf4ec4814d83edcfbdb8b96" category="paragraph">注册您的帐户ID支持订阅(您的20位960xxxxxxxxx序列号位于BlueXP的支持资源页面上)将作为您的单个支持订阅ID。必须注册每个BlueXP帐户级别的支持订阅。</block>
-  <block id="f9e05c2b383e3f11e3b4bebbe8952225" category="paragraph">通过注册、您可以创建支持服务单和自动生成案例等功能。要完成注册、请按如下所述将NetApp 支持站点(NSS)帐户添加到BlueXP中。</block>
   <block id="856edc4caec68fece6859c4be9360f3c" category="section-title">注册您的帐户以获得NetApp支持</block>
-  <block id="2d6573b6ae4c51dc24e58109473f2490" category="paragraph">要注册支持并激活支持授权、您帐户中的一个用户必须将NetApp支持站点帐户与其BlueXP登录名关联。如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">具有NSS帐户的现有客户</block>
-  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">如果您是拥有NSS帐户的NetApp客户、则只需通过BlueXP注册支持即可。</block>
-  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">在BlueXP控制台的右上角、选择设置图标、然后选择*凭据*。</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">选择*用户凭据*。</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">选择*添加NSS凭证*，然后按照NetApp 支持站点(NSS)鉴定提示进行操作。</block>
   <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">要确认注册过程是否成功，请选择帮助图标，然后选择*Support*。</block>
   <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">“资源”页面应显示您的帐户已注册支持。</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">屏幕截图、显示帐户序列号、绿色复选框以及注册支持的文本。</block>
   <block id="fa7897454f637026faa3e00ccbfec239" category="paragraph"><block ref="fa7897454f637026faa3e00ccbfec239" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">请注意、其他BlueXP用户如果没有将NetApp 支持站点 帐户与其BlueXP登录关联、则不会看到此相同的支持注册状态。但是、这并不意味着您的BlueXP帐户未注册支持。只要帐户中有一个用户执行了这些步骤、您的帐户即已注册。</block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">现有客户、但无NSS帐户</block>
-  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">如果您是现有许可证和序列号但拥有_no_ nss帐户的现有NetApp客户、则需要创建一个NSS帐户并将其与BlueXP登录关联。</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp 支持站点 用户注册表</block>
   <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">完成以创建NetApp支持站点帐户<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
   <block id="d61c9f72493817776f392db42ac446a2" category="list-text">请务必选择适当的用户级别、通常为* NetApp客户/最终用户*。</block>
-  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">请务必复制上面用于序列号字段的BlueXP帐户序列号(960xxxx)。这样可以加快帐户处理速度。</block>
-  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">通过完成下的步骤，将新的NSS帐户与BlueXP登录相关联 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp的新品牌</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客户、并且没有NSS帐户、请按照以下每个步骤进行操作。</block>
   <block id="f5d7029ed18f998c0a9d780b2554e538" category="list-text">从支持资源页面中找到您的帐户ID序列号。</block>
@@ -107,7 +92,6 @@
   <block id="201080500e946070a2e4873042507c77" category="paragraph">确认将向NetApp提交您的请求、并建议您创建NetApp 支持站点 帐户。</block>
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">请务必复制上面用于序列号字段的帐户序列号(960xxxx)。这样可以加快帐户处理速度。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此过程中、NetApp应与您联系。这是针对新用户的一次性入职练习。</block>
-  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">拥有NetApp支持站点帐户后，请完成下的步骤，将该帐户与BlueXP登录相关联 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">设置和管理</block>
@@ -119,40 +103,12 @@
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">将FSx for ONTAP文件系统中的数据与MLOps平台和GenAI基础模型集成、以创建功能聊天机器人。</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">简化从内部vSphere环境到VMware Cloud on AWS的迁移、并为ONTAP文件系统实施自定义FSx作为外部数据存储库。</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
-  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">BlueXP  工作负载工厂是一个功能强大的生命周期管理平台、旨在帮助您使用Amazon FSx for NetApp ONTAP优化工作负载。按工作负载类型浏览文档或使用搜索栏在工作负载工厂文档中的任意位置查找内容。</block>
-  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">BlueXP  工作负载工厂文档</block>
-  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">了解如何开始使用工作负载工厂、管理凭据以及使用CodeBox实现自动化。</block>
-  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">了解所有工作负载工厂的新增功能。</block>
-  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">以编程方式管理工作负载工厂资源。</block>
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">数据库</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
-  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">所有工作负载工厂文档</block>
-  <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">BlueXP  工作负载工厂</block>
-  <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
   <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">构建者</block>
   <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">通过实现与版本控制系统和CI/CD流的即时克隆集成、简化软件版本的使用和访问、从而节省时间和资源。</block>
-  <block id="b6a4501cc05e54e2e5a513c3b552183a" category="paragraph">NetApp以多种方式为BlueXP  工作负载工厂及其云服务提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
-  <block id="261966eaf033c38f6934f2c8fc36d79c" category="paragraph">有关FSx for ONTAP、其基础架构或任何使用该服务的解决方案的技术支持、请参阅该产品的工作负载工厂文档中的"获得帮助"。</block>
-  <block id="5b49df4e58e2a4750acd8bfa8687ccd6" category="paragraph">您当前正在查看的工作负载工厂文档。</block>
-  <block id="ba51332e265e54eb4295d6e7d057bad8" category="paragraph">搜索工作负载工厂知识库、查找有助于解决问题的文章。</block>
-  <block id="fc3e8f3c2017c33d444d483913a485ba" category="paragraph">加入工作负载工厂社区、关注正在进行的讨论或创建新的讨论。</block>
-  <block id="ffa18fada5deeeb1e533786297855e7d" category="paragraph">要使用*创建案例*功能，您必须先注册支持。请将您的NetApp支持站点凭据与您的工作负载出厂登录名关联起来。<block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>(英文)</block>
-  <block id="e13a5649dfef3a1c76c4be8e463226d7" category="list-text">在工作负载工厂控制台的右上角，选择*Help &gt; Support*。</block>
-  <block id="ce638fcfafd4d79a49524062225d7fbc" category="paragraph">要获得特定于BlueXP  工作负载工厂及其存储解决方案和服务的技术支持、需要注册支持。您必须从BlueXP  控制台注册获取支持、该控制台是工作负载出厂时单独的基于Web的控制台。</block>
-  <block id="2cbcc262b0a39ec19c5f69bffccb70fb" category="paragraph">注册获取支持不会为云提供商文件服务启用NetApp支持。有关与云提供商文件服务、其基础架构或任何使用该服务的解决方案相关的技术支持、请参阅该产品的工作负载工厂文档中的"获得帮助"。</block>
-  <block id="200e3179449390bdf5f3f8d9a199630c" category="doc">用于工作负载工厂的工具</block>
-  <block id="b5a374f3f5b31b5057808689d26fe2c4" category="paragraph">您可以将BlueXP  工作负载工厂与以下工具结合使用：</block>
-  <block id="4b50901597179fa075617d96ccf51901" category="list-text">*工作负载工厂控制台*：工作负载工厂控制台提供应用程序和项目的可视化、整体视图。</block>
-  <block id="590410b3a112ba2f531f9aae44e29ed1" category="list-text">BlueXP  console*：BlueXP  控制台提供了混合接口体验，因此您可以将BlueXP  工作负载出厂配置与其他BlueXP  服务结合使用。</block>
-  <block id="62c5120220d244bd5e611d7c4459b5c5" category="list-text">*问我*：使用"问我人工智能"助手提出问题并了解有关工作负载工厂的更多信息、而无需退出工作负载工厂Web UI。从工作负载出厂帮助菜单访问"询问我"。</block>
-  <block id="e234d079cc2fccaeed8041a81e1e8122" category="list-text">*CloudShell命令行界面*：工作负载工厂包括一个CloudShell命令行界面、用于通过一个基于浏览器的命令行界面跨帐户管理和操作AWS和NetApp环境。从工作负载出厂控制台的顶部栏访问CloudShell。</block>
-  <block id="dfbf98e5a4263fb93c5b851bfc384ae3" category="list-text">*REST API*：使用工作负载工厂REST API部署和管理适用于ONTAP文件系统和其他AWS资源的FSx。</block>
-  <block id="57f4ce64453b6cd8aa398c4f88d38c2e" category="list-text">*CloudFormation*：使用AWS CloudFormation代码执行您在工作负载出厂控制台中定义的操作、以便在您的AWS帐户中对CloudFormation堆栈中的AWS和第三方资源进行建模、配置和管理。</block>
-  <block id="af06e2a95bd9706f705a4480e8f40846" category="list-text">*Terraform BlueXP  工作负载工厂提供程序*：使用Terraform构建和管理在工作负载工厂控制台中生成的基础架构工作流。</block>
   <block id="cfd98e00a6e308c04ab9f76a854b6989" category="doc">跟踪和监控操作</block>
-  <block id="3c83889f8bf9dcafe14392fafd21fe54" category="paragraph">在BlueXP  工作负载工厂中使用跟踪器监控和跟踪工作负载操作的执行情况、并监控任务进度。</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">关于此任务</block>
-  <block id="2fc2f4d1cfd067d7b3d8b8baa3ccee57" category="paragraph">Workload Factory提供了一种监控功能、可用于监控和跟踪工作负载操作的进度和状态、查看操作任务和子任务的详细信息以及诊断任何问题或故障。</block>
   <block id="4a60367cb1382179b571e891381eaf8d" category="paragraph">Tracker提供了多种操作。您可以按时间范围(过去24小时、7天、14天或30天)、工作负载、状态和用户筛选作业；使用搜索功能查找作业；以及将作业表下载为CSV文件。您可以随时刷新Tracker、并快速重试失败的操作、或者编辑失败操作的参数并重试此操作。</block>
   <block id="9233b1148f18eb744b69d4d3620c296c" category="paragraph">Tracker支持两个级别的监控、具体取决于操作。每个任务(例如文件系统部署)都会显示任务说明、状态、开始时间、任务工期、用户、区域、代理资源、任务ID以及所有相关子任务。您可以查看API响应以了解操作期间发生的情况。</block>
   <block id="5cdbeb1c4cc65e8f551e161828701113" category="list-text">带有示例的跟踪器任务级别</block>
@@ -164,27 +120,70 @@
   <block id="a9853b6069302c4152781f48222c3541" category="list-text">操作频率取决于作业类型和作业计划。</block>
   <block id="01b0a4fcc33bdafd6e65537f24f463de" category="list-text">事件保留</block>
   <block id="b3c382e94f4b4abcc049ce95e85dc998" category="list-text">事件将在用户界面中保留30天。</block>
-  <block id="c82c26735f08b789c8bf574ab4962fcc" category="paragraph">使用跟踪器在BlueXP  中跟踪和监控操作。</block>
   <block id="dcafe9cce796ce855e87b270f0a5af59" category="inline-link-macro">控制台体验</block>
   <block id="e1e54933838bb7ba662301d01c937d2d" category="list-text">使用其中一个登录<block ref="68ceec76279c6913cdee16884c2d813a" category="inline-link-macro-rx"></block>。</block>
-  <block id="f6064bd4c17e4a2a2dcbd96f7ec83891" category="list-text">在工作负载中，选择帐户设置菜单，然后选择*Tracker。</block>
-  <block id="1c575ed3e5dce0a1d77706830609b278" category="inline-image-macro">帐户设置菜单的屏幕截图、突出显示了Tracker选项。</block>
-  <block id="7478b5abe2869b21138fe88cbd4d66da" category="paragraph"><block ref="7478b5abe2869b21138fe88cbd4d66da" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="e443a93c9da9763cd15656814a7e0c2e" category="list-text">在Tracker选项卡中、使用筛选器或搜索功能缩小作业结果范围。您也可以下载作业报告。</block>
   <block id="aa2a2cd452f8a71b2f2dcdae68114732" category="section-title">查看API请求</block>
   <block id="68538d555ae12c680ea428aaa850d90f" category="paragraph">在跟踪程序的"Code"框中查看某个任务的API请求。</block>
   <block id="968877018213bf42962084001c210472" category="list-text">在Tracker中、选择一个任务。</block>
-  <block id="2e6179b36329b65c38a5ca113ba0c81c" category="list-text">选择三点菜单，然后选择*查看API请求*。</block>
   <block id="1448fba076a066622a9f93a25ab170a2" category="section-title">重试失败的操作</block>
   <block id="89f1070b2ef1ba678a8cb4823fa74cb2" category="paragraph">在Tracker中重试失败的操作。您还可以复制失败操作的错误消息。</block>
   <block id="25f39cb1a1fb7c5e04993249b6cabc32" category="admonition">对于失败的操作、您最多可以重试10次。</block>
   <block id="b866b632b7f32ded2a0a0907100641bf" category="list-text">在Tracker中、选择失败的操作。</block>
-  <block id="5d0eaa0ad00baabb57cbc22969070918" category="list-text">选择三点菜单，然后选择*Retry*。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">结果</block>
   <block id="121145d60db2324903b129ae74d6c0a9" category="paragraph">此时将重新启动此操作。</block>
   <block id="bde5076ae2a993de9042a7e1dd4dc445" category="section-title">编辑失败的操作并重试</block>
   <block id="2ae5a8ae85adca2aebf16aa81130c9c5" category="paragraph">编辑失败操作的参数、然后在Tracker外部重试此操作。</block>
-  <block id="524ab960a72817bd7f9f107dc357d1bd" category="list-text">选择三点菜单，然后选择*编辑并重试*。</block>
   <block id="a071e4310b0dbc18ec326c217f47692f" category="paragraph">系统会将您重定向到操作页面、您可以在其中编辑参数并重试此操作。</block>
   <block id="49814788ce382c87a117a40e54ae858b" category="paragraph">此时将重新启动此操作。进入跟踪器以查看操作状态。</block>
+  <block id="3c6efe0ce159fb5b8ee4882bcf3ad973" category="paragraph">NetApp通过多种方式为 Workload Factory 及其云服务提供支持。全天候提供广泛的免费自助支持选项，例如知识库 (KB) 文章和社区论坛。您的支持注册包含通过网络工单获取的远程技术支持。</block>
+  <block id="4435b263dd1a35bcd8dfda050db92b3b" category="paragraph">有关 FSx for ONTAP、其基础架构或任何使用该服务的解决方案的技术支持，请参阅该产品的 Workload Factory 文档中的“获取帮助”。</block>
+  <block id="359d8b16e442ffaa72e03c95fcd60448" category="paragraph"><block ref="359d8b16e442ffaa72e03c95fcd60448" category="inline-link-macro-rx"></block></block>
+  <block id="d935525f4850c4638cbf48ae53fb4686" category="paragraph">您当前正在查看的 Workload Factory 文档。</block>
+  <block id="ba6274b9c9d1f81bb3a648fa289986b8" category="paragraph">搜索 Workload Factory 知识库以查找有助于解决问题的文章。</block>
+  <block id="7faef90df03399696ba9d4815b37171a" category="paragraph">加入 Workload Factory 社区以关注正在进行的讨论或创建新的讨论。</block>
+  <block id="a12ea39ddf1c98adfd7f751299705efa" category="paragraph">要使用*创建案例*功能，您必须首先注册支持。将您的NetApp支持站点凭据与您的 Workload Factory 登录名关联。<block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block> 。</block>
+  <block id="356c88ac4b0ec3f7689cc91f54701fef" category="list-text">在 Workload Factory 控制台的右上角，选择 *帮助 &gt; 支持*。</block>
+  <block id="6e74b203173a9994c366c7e7a3cf4748" category="paragraph">选择此选项将在新浏览器选项卡中打开NetApp控制台并加载支持仪表板。</block>
+  <block id="3f13dd54818447375c92bf35e0a35f00" category="paragraph">此错误可能意味着 NSS 帐户及其关联的记录公司与NetApp控制台帐户序列号的记录公司不同（即。960xxxx）或系统序列号。您可以使用以下选项之一寻求帮助：</block>
+  <block id="289d2ab2d9b0e116790d035921c12b56" category="paragraph">您可以直接从NetApp控制台查看和管理活动和已解决的支持案例。您可以管理与您的 NSS 帐户和公司相关的案例。</block>
+  <block id="f9a63cd3a07378e169c58addd5fdce8d" category="paragraph">选择此选项将打开NetApp控制台的新浏览器选项卡并加载支持仪表板。</block>
+  <block id="785b440c0be1d853c5e2f4fb1f1ee2ab" category="list-text">选择*案例管理*，如果出现提示，请将您的 NSS 帐户添加到NetApp控制台。</block>
+  <block id="c80d8addb8aa8e8872bbc44894b077f3" category="paragraph">*案例管理*页面显示与您的NetApp控制台用户帐户关联的 NSS 帐户相关的未结案例。这与出现在 *NSS 管理* 页面顶部的 NSS 帐户相同。</block>
+  <block id="4bbb8d481021011f9afb73ca196bfecd" category="doc">使用NetApp Workload Factory 的工具</block>
+  <block id="227f846d45d01d0f9fb62a784d506d51" category="paragraph">您可以将NetApp Workload Factory 与以下工具一起使用：</block>
+  <block id="36445dd6e44838348239a5d874596e0d" category="list-text">*Workload Factory 控制台*：Workload Factory 控制台提供您的应用程序和项目的可视化、整体视图。</block>
+  <block id="e71fd0837014d1987a939c9af71a3353" category="list-text">* NetApp控制台*： NetApp控制台提供混合界面体验，以便您可以将 Workload Factory 与其他NetApp数据服务一起使用。</block>
+  <block id="38c157d73ba6e13febe98e5199b858c8" category="list-text">*问我*：使用问我 AI 助手来提问并了解有关 Workload Factory 的更多信息，而无需离开 Workload Factory 控制台。从 Workload Factory 帮助菜单访问“问我”。</block>
+  <block id="65c95ed5c9f895be6dfa81e8583c86af" category="list-text">*CloudShell CLI*：Workload Factory 包含一个 CloudShell CLI，可通过基于浏览器的单个 CLI 跨账户管理和操作 AWS 和NetApp环境。从 Workload Factory 控制台顶部栏访问 CloudShell。</block>
+  <block id="34904d30d825a389b588efb76a1ceb16" category="list-text">*REST API*：使用 Workload Factory REST API 部署和管理您的 FSx for ONTAP文件系统和其他 AWS 资源。</block>
+  <block id="3995165ba76339d9d4d08edf5a17c07c" category="list-text">*CloudFormation*：使用 AWS CloudFormation 代码执行您在 Workload Factory 控制台中定义的操作，以从您的 AWS 账户中的 CloudFormation 堆栈对 AWS 和第三方资源进行建模、配置和管理。</block>
+  <block id="a1b1209dad1b58c4e66fd68ee5bc0148" category="list-text">*Terraform NetApp Workload Factory 提供商*：使用 Terraform 构建和管理在 Workload Factory 控制台中生成的基础架构工作流。</block>
+  <block id="aeb31c9f8c311597856b129ab948b4e6" category="inline-link">NetApp工作负载工厂</block>
+  <block id="55f7843f27571db97da76bdf68a76d22" category="paragraph"><block ref="55f7843f27571db97da76bdf68a76d22" category="inline-link-rx"></block></block>
+  <block id="3d9b602ae77ac6a4951ca31b05b6b54f" category="paragraph">需要注册支持才能获得针对NetApp Workload Factory 及其存储解决方案和服务的技术支持。您必须注册NetApp Console 的支持，它是独立于 Workload Factory 的基于 Web 的控制台。</block>
+  <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">注册支持并不能使NetApp获得云提供商文件服务的支持。有关云提供商文件服务、其基础设施或使用该服务的任何解决方案的技术支持，请参阅该产品的 Workload Factory 文档中的“获取帮助”。</block>
+  <block id="eb803e55617f13b716b5e56642cce2b0" category="paragraph">注册您的帐户 ID 支持订阅（位于NetApp控制台中的“支持资源”页面上的 20 位 960xxxxxxxxx 序列号）作为您的单一支持订阅 ID。每个NetApp帐户级支持订阅都必须注册。</block>
+  <block id="4cffd3c1dbf2f1038c01d18e7a860305" category="paragraph">注册后即可实现开立支持票和自动生成案例等功能。通过将NetApp支持站点 (NSS) 帐户添加到NetApp控制台即可完成注册，如下所述。</block>
+  <block id="f6c4a3ae75d6616126e6da8310ae7384" category="paragraph">要注册支持并激活支持权利，您帐户中的一名用户必须将NetApp支持站点帐户与其NetApp控制台登录名关联。如何注册NetApp支持取决于您是否已经拥有NetApp支持站点 (NSS) 帐户。</block>
+  <block id="f732375b4bc27328f202e3b10a957017" category="paragraph">如果您是拥有 NSS 帐户的NetApp客户，则只需通过NetApp控制台注册即可获得支持。</block>
+  <block id="f65aaf10469eac2932fc53c6a37afb71" category="list-text">从NetApp控制台菜单中，选择 *管理*，然后选择 *凭据*。</block>
+  <block id="9094354ffd09e4644caa0010edc66d24" category="paragraph">请注意，如果其他NetApp控制台用户尚未将NetApp支持站点帐户与其NetApp控制台登录名关联，则他们将看不到相同的支持注册状态。但是，这并不意味着您的NetApp帐户未注册支持。只要账户中有一位用户遵循了这些步骤，那么您的账户就注册成功了。</block>
+  <block id="a8f62b208e5177a219f0b0d4ce88e0a9" category="paragraph">如果您是现有NetApp客户，拥有现有许可证和序列号但没有 NSS 帐户，则需要创建一个 NSS 帐户并将其与您的NetApp控制台登录关联。</block>
+  <block id="fb9b6bbcab5fb396a13f67594a0ba1ee" category="list-text">请务必复制上面用于序列号字段的NetApp帐户序列号 (960xxxx)。这将加快账户处理速度。</block>
+  <block id="40eff8559acd41057187b6cb11fa1919" category="list-text">完成以下步骤，将您的新 NSS 帐户与您的NetApp控制台登录关联<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="f335678326583cea28377216c5515221" category="paragraph">拥有NetApp支持站点帐户后，请按照以下步骤将该帐户与您的NetApp控制台登录关联<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="90f1d591a5568f9514509a22083b5b1a" category="paragraph">使用NetApp Workload Factory 中的 Tracker 监控和跟踪工作负载操作的执行情况并监控任务进度。</block>
+  <block id="6e6b128e6a9a02188dabea0077b4ad0b" category="paragraph">NetApp Workload Factory 提供监控功能 Tracker，因此您可以监控和跟踪工作负载操作的进度和状态、查看操作任务和子任务的详细信息以及诊断任何问题或故障。</block>
+  <block id="3681c25085cfd3a56604857cdcbcb245" category="paragraph">使用 Tracker 跟踪和监控 Workload Factory 控制台中的操作。</block>
+  <block id="736c64c4ed0856a8d9aa760b894aef84" category="list-text">从工作量菜单中，选择*管理*，然后选择*跟踪器*。</block>
+  <block id="2ba65fb298b74a9b72d949d4fe3479b3" category="list-text">在 Tracker 中，使用过滤器或搜索来缩小工作结果范围。您还可以下载工作报告。</block>
+  <block id="bd56fc255ce900fc195c9bc0d7ed20c0" category="list-text">选择操作菜单，然后选择*查看 API 请求*。</block>
+  <block id="9d506eb8fb5e05c2467a690e5e727cd8" category="list-text">选择操作菜单，然后选择*重试*。</block>
+  <block id="0270fd4391a6b334aa157faf0a6b7304" category="list-text">选择操作菜单，然后选择*编辑并重试*。</block>
+  <block id="42a584f66b7330d3e570bd80fda469ec" category="sidebar">NetApp Workload Factory 是一个强大的生命周期管理平台，旨在帮助您使用Amazon FSx for NetApp ONTAP优化工作负载。按工作负载类型浏览文档或使用搜索栏在工作负载工厂文档中的任何位置查找内容。</block>
+  <block id="ba6dc48c42def59e6936ffe843e2d781" category="sidebar">NetApp工作负载工厂文档</block>
+  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">了解如何开始使用 Workload Factory、管理凭据以及使用 Codebox 进行自动化。</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">了解 Workload Factory 的所有新功能。</block>
+  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">以编程方式管理您的工作负载工厂资源。</block>
+  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有 Workload Factory 文档</block>
 </blocks>
