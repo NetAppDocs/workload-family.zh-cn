@@ -31,10 +31,10 @@ product-family:
     url: https://console.workloads.netapp.com/api-doc
     summary: 以编程方式管理您的工作负载工厂资源。
     tags: all,api
-  - title: 构建者
+  - title: 探索性数据分析
     icon: "./media/icon-builders.png"
     url: "../workload-builders/index.html"
-    summary: 通过实现与版本控制系统和CI/CD流的即时克隆集成、简化软件版本的使用和访问、从而节省时间和资源。
+    summary: 通过自动化存储参数管理，优化跨多个文件系统的 FSx for ONTAP ，以提高性能并降低运营成本。
     tags: all,workload
   - title: 数据库
     icon: "./media/icon-database.png"
