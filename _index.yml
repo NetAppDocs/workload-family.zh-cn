@@ -41,11 +41,6 @@ product-family:
     url: "../workload-databases/index.html"
     summary: 使用适用于ONTAP文件系统的FSx作为外部数据存储库、通过内置优化最佳实践端到端部署数据库。
     tags: all,workload
-  - title: GenAI
-    icon: "./media/icon-ai.png"
-    url: "../workload-genai/index.html"
-    summary: 将FSx for ONTAP文件系统中的数据与MLOps平台和GenAI基础模型集成、以创建功能聊天机器人。
-    tags: all,workload
   - title: 存储
     icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"

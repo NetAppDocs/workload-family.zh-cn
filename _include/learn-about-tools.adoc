@@ -4,6 +4,7 @@
 
 
 
+[[tools-to-use-netapp-workload-factory]]
 == 使用NetApp Workload Factory 的工具
 
 您可以将NetApp Workload Factory 与以下工具一起使用：
