@@ -17,37 +17,30 @@ product-family:
     tags: storage
   tiles:
   - title: 设置和管理
-    icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
     summary: 了解如何开始使用 Workload Factory、管理凭据以及使用 Codebox 进行自动化。
     tags: all,admin
   - title: 发行说明
-    icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
     summary: 了解 Workload Factory 的所有新功能。
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: 以编程方式管理您的工作负载工厂资源。
     tags: all,api
   - title: 探索性数据分析
-    icon: "./media/icon-builders.png"
     url: "../workload-eda/index.html"
     summary: 通过自动化存储管理，优化 FSx for ONTAP在多个文件系统上的性能和成本。
     tags: all,workload
   - title: 数据库
-    icon: "./media/icon-database.png"
     url: "../workload-databases/index.html"
     summary: 使用适用于ONTAP文件系统的FSx作为外部数据存储库、通过内置优化最佳实践端到端部署数据库。
     tags: all,workload
   - title: 存储
-    icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
     summary: 部署和管理FSx for ONTAP文件系统、以将ONTAP的全部功能用作原生AWS托管服务。
     tags: all,storage
   - title: VMware
-    icon: "./media/icon-vmware.png"
     url: "../workload-vmware/index.html"
     summary: 简化从内部vSphere环境到VMware Cloud on AWS的迁移、并为ONTAP文件系统实施自定义FSx作为外部数据存储库。
     tags: all,workload
