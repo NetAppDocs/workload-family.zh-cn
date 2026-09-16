@@ -44,3 +44,7 @@ product-family:
     url: "../workload-vmware/index.html"
     summary: 简化从内部vSphere环境到VMware Cloud on AWS的迁移、并为ONTAP文件系统实施自定义FSx作为外部数据存储库。
     tags: all,workload
+  - title: 信息安全
+    url: "../workload-infosec/index.html"
+    summary: 了解 Workload Factory 的安全功能，以及如何评估和引入平台以支持企业安全要求。
+    tags: all,workload
