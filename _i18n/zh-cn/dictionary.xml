@@ -125,7 +125,6 @@
   <block id="65c95ed5c9f895be6dfa81e8583c86af" category="list-text">*CloudShell CLI*：Workload Factory 包含一个 CloudShell CLI，可通过基于浏览器的单个 CLI 跨账户管理和操作 AWS 和NetApp环境。从 Workload Factory 控制台顶部栏访问 CloudShell。</block>
   <block id="34904d30d825a389b588efb76a1ceb16" category="list-text">*REST API*：使用 Workload Factory REST API 部署和管理您的 FSx for ONTAP文件系统和其他 AWS 资源。</block>
   <block id="3995165ba76339d9d4d08edf5a17c07c" category="list-text">*CloudFormation*：使用 AWS CloudFormation 代码执行您在 Workload Factory 控制台中定义的操作，以从您的 AWS 账户中的 CloudFormation 堆栈对 AWS 和第三方资源进行建模、配置和管理。</block>
-  <block id="a1b1209dad1b58c4e66fd68ee5bc0148" category="list-text">*Terraform NetApp Workload Factory 提供商*：使用 Terraform 构建和管理在 Workload Factory 控制台中生成的基础架构工作流。</block>
   <block id="aeb31c9f8c311597856b129ab948b4e6" category="inline-link">NetApp工作负载工厂</block>
   <block id="55f7843f27571db97da76bdf68a76d22" category="paragraph"><block ref="55f7843f27571db97da76bdf68a76d22" category="inline-link-rx"></block></block>
   <block id="3d9b602ae77ac6a4951ca31b05b6b54f" category="paragraph">需要注册支持才能获得针对NetApp Workload Factory 及其存储解决方案和服务的技术支持。您必须注册NetApp Console 的支持，它是独立于 Workload Factory 的基于 Web 的控制台。</block>
@@ -150,4 +149,5 @@
   <block id="d783a4bda63a5d10b5fdfe91d9c38e49" category="sidebar">通过自动化存储管理，优化 FSx for ONTAP在多个文件系统上的性能和成本。</block>
   <block id="a6c362bbe58560819472cdcb685dcd77" category="sidebar">信息安全</block>
   <block id="95c4f2db3f1cb59f632d54beaf814d5f" category="sidebar">了解 Workload Factory 的安全功能，以及如何评估和引入平台以支持企业安全要求。</block>
+  <block id="06e2f75907573850abfa673fd6e8572a" category="list-text">*NetApp Terraform 提供程序*：使用 Terraform 构建和管理在 Workload Factory 控制台中生成的基础设施工作流。</block>
 </blocks>
